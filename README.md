@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @jithukuttanmm
 - 👀 I’m interested in Coffee & Coding
-- 🌱 I’m currently learning MERN 😉
-- 📫 How to reach me 📧
+- 🌱 I’m currently learning MERN 
+- 📫 How to reach me my_username@outlook.com 😉
 
 <!---
 jithukuttanmm/jithukuttanmm is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
